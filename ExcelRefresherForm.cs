@@ -392,7 +392,7 @@ namespace ExcelRefresher_Standalone
             }
         }
         private void AutoPage_Click(object sender, EventArgs e)
-        {
+        {//
 
         }
 
